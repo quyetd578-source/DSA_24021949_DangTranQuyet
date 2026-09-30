@@ -209,3 +209,14 @@ int main() {
     clearList(head);
     return 0;
 }
+
+//Độ phức tạp thuật toán
+//Truy cập phần tử: O(n)
+// Chèn đầu: O(1)
+// Chèn cuối: O(n)
+// Chèn vị trí i: O(n)
+// Xóa đầu: O(1)
+// Xóa cuối: O(n)
+// Xóa vị trí i: O(n)
+// Duyệt xuôi: O(n)
+// Duyệt ngược: O(n)
