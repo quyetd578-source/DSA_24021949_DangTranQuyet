@@ -140,3 +140,13 @@ int main() {
 
     return 0;
 }
+//Độ phức tạp thuật toán
+//Truy cập phần tử: O(1)
+// Chèn đầu: O(n)
+// Chèn cuối: O(1)
+// Chèn vị trí i: O(n)
+// Xóa đầu: O(n)
+// Xóa cuối: O(1)
+// Xóa vị trí i: O(n)
+// Duyệt xuôi: O(n)
+// Duyệt ngược: O(n)
